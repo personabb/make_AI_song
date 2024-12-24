@@ -14,5 +14,5 @@ https://www.youtube.com/watch?v=7DtiXzbEvPQ
 
 
 # その他
-声に関しては「あみたろの声素材工房」様の声を一部お借りしております。
-https://amitaro.net/
+声に関しては「[あみたろの声素材工房](https://amitaro.net/)」様の声を一部お借りしております。
+
